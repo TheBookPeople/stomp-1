@@ -7,7 +7,7 @@ import (
 	"strings"
 
 	"github.com/go-stomp/stomp"
-	"github.com/go-stomp/stomp/frame"
+	"github.com/thebookpeople/stomp-go/frame"
 )
 
 const (

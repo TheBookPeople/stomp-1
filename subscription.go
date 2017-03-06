@@ -5,7 +5,7 @@ import (
 	"log"
 	"sync"
 
-	"github.com/go-stomp/stomp/frame"
+	"github.com/thebookpeople/stomp-go/frame"
 )
 
 // The Subscription type represents a client subscription to

@@ -1,7 +1,7 @@
 package queue
 
 import (
-	"github.com/go-stomp/stomp/frame"
+	"github.com/thebookpeople/stomp-go/frame"
 	. "gopkg.in/check.v1"
 )
 

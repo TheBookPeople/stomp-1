@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/go-stomp/stomp"
-	"github.com/go-stomp/stomp/frame"
+	"github.com/thebookpeople/stomp-go/frame"
 )
 
 // Maximum number of pending frames allowed to a client.

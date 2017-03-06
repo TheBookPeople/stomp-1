@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/go-stomp/stomp"
-	"github.com/go-stomp/stomp/frame"
+	"github.com/thebookpeople/stomp-go/frame"
 )
 
 func ExampleConn_Send(c *stomp.Conn) error {

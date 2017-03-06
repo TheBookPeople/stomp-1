@@ -1,7 +1,7 @@
 package client
 
 import (
-	"github.com/go-stomp/stomp/frame"
+	"github.com/thebookpeople/stomp-go/frame"
 )
 
 type Subscription struct {
